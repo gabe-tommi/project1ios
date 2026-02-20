@@ -16,9 +16,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "CB602B9429247359006C6727"
-               BuildableName = "lab-task-squirrel.app"
-               BlueprintName = "lab-task-squirrel"
-               ReferencedContainer = "container:lab-task-squirrel.xcodeproj">
+               BuildableName = "project1.app"
+               BlueprintName = "project1"
+               ReferencedContainer = "container:project1.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -45,9 +45,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB602B9429247359006C6727"
-            BuildableName = "lab-task-squirrel.app"
-            BlueprintName = "lab-task-squirrel"
-            ReferencedContainer = "container:lab-task-squirrel.xcodeproj">
+            BuildableName = "project1.app"
+            BlueprintName = "project1"
+            ReferencedContainer = "container:project1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </LaunchAction>
@@ -62,9 +62,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "CB602B9429247359006C6727"
-            BuildableName = "lab-task-squirrel.app"
-            BlueprintName = "lab-task-squirrel"
-            ReferencedContainer = "container:lab-task-squirrel.xcodeproj">
+            BuildableName = "project1.app"
+            BlueprintName = "project1"
+            ReferencedContainer = "container:project1.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
